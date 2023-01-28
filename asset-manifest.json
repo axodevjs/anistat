@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/anistat/static/css/main.efa6f7a2.css",
-    "main.js": "/anistat/static/js/main.e777cb48.js",
+    "main.js": "/anistat/static/js/main.fe9cdff4.js",
     "index.html": "/anistat/index.html",
     "main.efa6f7a2.css.map": "/anistat/static/css/main.efa6f7a2.css.map",
-    "main.e777cb48.js.map": "/anistat/static/js/main.e777cb48.js.map"
+    "main.fe9cdff4.js.map": "/anistat/static/js/main.fe9cdff4.js.map"
   },
   "entrypoints": [
     "static/css/main.efa6f7a2.css",
-    "static/js/main.e777cb48.js"
+    "static/js/main.fe9cdff4.js"
   ]
 }
