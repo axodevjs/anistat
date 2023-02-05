@@ -10,7 +10,7 @@ const LoginPage = () => {
   let navigate = useNavigate();
 
   const onLogin = () => {
-    if (login !== "admin" || password !== "123") {
+    if (login !== "admin" || password !== "KFjs63hs31") {
       setIsErr(true);
     } else {
       setIsErr(false);

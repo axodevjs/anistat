@@ -3,7 +3,7 @@ import styled, { css } from "styled-components";
 export const Sidebar = styled.div`
   display: flex;
   width: 350px;
-  height: 100vh;
+  min-height: 100vh;
   background-color: #ffffff;
   flex-direction: column;
   align-items: center;

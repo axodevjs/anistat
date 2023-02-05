@@ -6,6 +6,7 @@ export const Table = styled.div`
   flex-direction: column;
   background-color: #fff;
   border-radius: 8px;
+  border: 1px solid #f3f3f4;
 `;
 
 export const Row = styled.div`
@@ -13,6 +14,11 @@ export const Row = styled.div`
   padding: 17px 31px;
   display: flex;
   flex-direction: row;
+  border-bottom: 1px solid #f3f3f4;
+
+  &:nth-child(last) {
+    border-bottom: 0;
+  }
 `;
 
 export const Col = styled.div`
